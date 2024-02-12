@@ -8,6 +8,6 @@ An Implementation of the Hash Table described in [Bender et al.](https://arxiv.o
 
     d := bender.Hash{}
 
-	err := d.Insert("some key", "some value")	
-	value, err := d.Get("some key)
+    err := d.Insert("some key", "some value")	
+    value, err := d.Get("some key)
 ```
